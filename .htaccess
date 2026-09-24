@@ -1,0 +1,4 @@
+# Deny all web access to the data directory
+Require all denied
+# Apache 2.2 fallback
+Deny from all
